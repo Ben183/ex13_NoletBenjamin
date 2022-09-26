@@ -1,0 +1,40 @@
+
+
+@font-face {
+    font-family: "banniere1";
+    src: url('ProgressPersonalUse-EaJdz.ttf');
+}
+
+.banniere1{
+    color: black;
+    font-family: "banniere1";
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    font-size: 145%;
+    text-shadow:3px 3px 2px crimson;
+    width: 120%;
+    background-image: linear-gradient(brown,black,brown)
+}
+
+@font-face {
+    font-family: "Orbitron";
+    src: url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+}
+
+.banniere2{
+    font-family: "Orbitron";
+    color: blue;
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    text-shadow:3px 3px 2px yellow;
+    font-size: 145%;
+    width: 120%;
+    background-image: linear-gradient(Yellow,Blue,Yellow)
+}
+
+
+
